@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eternals.clone</groupId>
-	<artifactId>clone</artifactId>
+	<artifactId>coursewear</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>clone</name>
+	<name>coursewear</name>
 	<description>This project is to retrieve all courseware details.</description>
 
 	<properties>
