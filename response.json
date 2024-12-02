@@ -1,0 +1,3512 @@
+{
+    "id": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+    "title": "Fairfax Reveal Math, Grade K-3",
+    "label": "Course",
+    "labelId": "5104076c-98f9-42a1-a5ea-0460b3c12dd7",
+    "nodeType": "course",
+    "instructorMaterials": "",
+    "displayOptions": {
+        "ngc": {
+            "isStyled": true
+        }
+    },
+    "displayStandards": true,
+    "isInstructorOnly": false,
+    "isLearnerHidden": false,
+    "themeUuid": "5095fc9d-45c5-42e7-abd9-ba7db377bc84",
+    "audience": "K12",
+    "locked": false,
+    "clonedFrom": "7e513121-5178-419c-a636-afb883953218",
+    "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:3e3499ee-f547-4abf-aaa0-6702ecbcb396:1",
+    "parentNodeId": null,
+    "overview": [],
+    "nodeImage": [
+        {
+            "anchorPosition": null,
+            "assetId": "9870a663aa394911955db58fa88da3dd",
+            "clonedFrom": "fe6fcc75-80ae-4f4c-939a-9b4e97fffdf8",
+            "cropArea": null,
+            "id": "b0afeeb1-c53c-4d78-8dc4-e7dae23689a2",
+            "imageHeight": "262",
+            "imageType": "k5-hero",
+            "imageUrl": "https://abs.mheducation.com/api/v1/asset/9870a663aa394911955db58fa88da3dd/content/exact",
+            "imageWidth": "260",
+            "cdnImageUrl": "No bank ID found."
+        },
+        {
+            "anchorPosition": null,
+            "assetId": "38ae913b955141b7b3b2b73dd112da87",
+            "clonedFrom": "cc81252c-22d9-49e3-ac95-a1b77cea703d",
+            "cropArea": null,
+            "id": "49c08503-691e-4799-9256-208dd3fef602",
+            "imageHeight": "341",
+            "imageType": "course",
+            "imageUrl": "https://abs.mheducation.com/api/v1/asset/38ae913b955141b7b3b2b73dd112da87/content/exact",
+            "imageWidth": "284",
+            "cdnImageUrl": "No bank ID found."
+        },
+        {
+            "anchorPosition": null,
+            "assetId": "1ec84ad2d6964b2694a2656996ca1cc5",
+            "clonedFrom": "5a234bdc-1db6-4f3a-ad28-884235f1c6ae",
+            "cropArea": null,
+            "id": "69c0d460-aec4-4747-90d2-3df5c358e9f6",
+            "imageHeight": "265",
+            "imageType": "dashboard",
+            "imageUrl": "https://abs.mheducation.com/api/v1/asset/1ec84ad2d6964b2694a2656996ca1cc5/content/exact",
+            "imageWidth": "1200",
+            "cdnImageUrl": "No bank ID found."
+        },
+        {
+            "anchorPosition": null,
+            "assetId": "64defbae5b8c4eafb8ad86c72e8cd0a1",
+            "clonedFrom": "1a892ae3-de81-42e2-9c87-b60ae0c6f69f",
+            "cropArea": null,
+            "id": "86c0422d-7e33-430e-a300-4ade8cdf1fe0",
+            "imageHeight": "747",
+            "imageType": "k5-background",
+            "imageUrl": "https://abs.mheducation.com/api/v1/asset/64defbae5b8c4eafb8ad86c72e8cd0a1/content/exact",
+            "imageWidth": "2048",
+            "cdnImageUrl": "No bank ID found."
+        },
+        {
+            "anchorPosition": null,
+            "assetId": "a7716291363546ba8d5c3044f3c14a87",
+            "clonedFrom": "3bcb1fc8-d524-474d-b029-c1d631371618",
+            "cropArea": null,
+            "id": "3da9ad50-d226-4abc-bc95-c6d8826b1e07",
+            "imageHeight": "70",
+            "imageType": "k5-course",
+            "imageUrl": "https://abs.mheducation.com/api/v1/asset/a7716291363546ba8d5c3044f3c14a87/content/exact",
+            "imageWidth": "320",
+            "cdnImageUrl": "No bank ID found."
+        }
+    ],
+    "benchmark": [
+        {
+            "courseUuid": "6ACAAA56-6EC0-11DF-AB2D-366B9DFF4B22",
+            "documentUuid": "964E0FEE-AD71-11DE-9BF2-C9169DFF4B22",
+            "authorityUuid": "A83297F2-901A-11DF-A622-0C319DFF4B22",
+            "subjectDocumentUuid": "6C2635F0-6EC0-11DF-AB2D-366B9DFF4B22"
+        },
+        {
+            "courseUuid": "712B12E4-CBA4-11E6-96F2-3939CDC8CA83",
+            "documentUuid": "2D0E419C-E20B-11E8-838B-E2019B347E8C",
+            "authorityUuid": "A83274AC-901A-11DF-A622-0C319DFF4B22",
+            "subjectDocumentUuid": "991A9C98-CB95-11E6-A483-49A0BF03DF2F"
+        },
+        {
+            "courseUuid": "2F0D6166-22F6-11E6-9485-3FA829C466BA",
+            "documentUuid": "2F1589AE-22F6-11E6-9485-3FA829C466BA",
+            "authorityUuid": "A83425EA-901A-11DF-A622-0C319DFF4B22",
+            "subjectDocumentUuid": "2F1434BE-22F6-11E6-9485-3FA829C466BA"
+        },
+        {
+            "courseUuid": "B5B0B718-9CC6-11E7-8940-E4F7CCC8CA83",
+            "documentUuid": "4D7B5584-9C82-11E7-8A3F-4EABBF03DF2F",
+            "authorityUuid": "A834E00C-901A-11DF-A622-0C319DFF4B22",
+            "subjectDocumentUuid": "49C1ACA6-9CC6-11E7-8E55-D1F6CCC8CA83"
+        },
+        {
+            "courseUuid": "A67863B2-6F89-11DF-BAEE-EA329DFF4B22",
+            "documentUuid": "964E0FEE-AD71-11DE-9BF2-C9169DFF4B22",
+            "authorityUuid": "A83297F2-901A-11DF-A622-0C319DFF4B22",
+            "subjectDocumentUuid": "6C2635F0-6EC0-11DF-AB2D-366B9DFF4B22"
+        }
+    ],
+    "layout": null,
+    "recommendations": [],
+    "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+    "userDashboardAssets": [
+        "d48e93a5-0a1b-4bf8-9ba4-3dbf46142ca1",
+        "dae09180-820d-47fd-8233-c13a755a1b76",
+        "b36c9ec6-6a11-4ff0-afd1-3f4882586e94",
+        "7225bcc2-49d1-42e2-994f-32f06b71946a",
+        "0c8c3863-0415-4ce8-9742-de29c686e433",
+        "ccdf510a-f69f-4f81-a1f0-106f0e893112"
+    ],
+    "userQuicklinksAssets": [
+        "e0b64d98-ac0e-4226-85ee-cacfeb6f97a1",
+        "1da5eb30-134a-47f9-a0f6-9b43f658571d",
+        "84046d78-117a-4bc7-a97a-da175a21bd26"
+    ],
+    "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+    "titleHtml": "<h1>Fairfax Reveal Math, Grade K-3</h1>\n\n<p> </p>",
+    "children": [
+        {
+            "id": "07c44867-24d2-4700-9a96-8aef498c7100",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Course Materials",
+            "labelId": "7c430c6b-bdc5-4b82-a6a0-2f6d503a4652",
+            "label": "Program Resources",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "7d5c3160-1c1c-4e41-9296-ae09061f9d6b",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:07c44867-24d2-4700-9a96-8aef498c7100:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "b849fc319ca94ca3bd557c8e7ebcf11e",
+                    "clonedFrom": "ac610af4-d5bd-44a6-b6fe-6d5b77940f03",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "2eb907bb-81a7-41f9-91d2-c054bb55aa82",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/b849fc319ca94ca3bd557c8e7ebcf11e/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "2e3e19bb-2ed7-490f-92a7-474f2322c8a1:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Course Materials</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 3
+        },
+        {
+            "id": "2efef2f4-ea23-4b2d-a28b-e434b91445bc",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Course Assessments",
+            "labelId": "7c430c6b-bdc5-4b82-a6a0-2f6d503a4652",
+            "label": "Program Resources",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "579e7d6a-f30a-4de4-9cee-82e1c45a6cda",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:2efef2f4-ea23-4b2d-a28b-e434b91445bc:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "57cb17f1582f4d238a63d9e0fb44ab68",
+                    "clonedFrom": "0632399c-7f8f-4e12-bd28-912ba653067c",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "18687cd2-c673-48af-8a86-1cf375de899f",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/57cb17f1582f4d238a63d9e0fb44ab68/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "5bfec5f8-b98f-4358-8dc6-188d794c16a5:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Course Assessments</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 4
+        },
+        {
+            "id": "11b3b019-a0d5-4742-a160-c655f34297f5",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:23:45.771+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Grade K",
+            "labelId": "cff389f5-2987-4a39-8757-a2ec972ed940",
+            "label": "Reveal Math",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:11b3b019-a0d5-4742-a160-c655f34297f5:1",
+            "overview": [],
+            "nodeImage": [],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": false,
+            "ETag": "4a3df104-8a48-4e75-90f3-68760497c186:1731518635.698090",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Grade K</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 5
+        },
+        {
+            "id": "dc1cefd5-f14d-45da-a739-351b72d4ff00",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Math Is...",
+            "labelId": "94a5f2da-5f2a-4935-853d-392381b57a9e",
+            "label": "Unit 1",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "f9e27864-f8c7-4a28-8926-06e1b06fce79",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:dc1cefd5-f14d-45da-a739-351b72d4ff00:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "f7e8a53005d24b8f93d4a7f59c51079e",
+                    "clonedFrom": "d19fa9e4-6b9c-4c3e-b3ef-14ffdb10b7c6",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "adcc4d36-20e2-433b-ac6f-d4e614592505",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/f7e8a53005d24b8f93d4a7f59c51079e/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "d3eb7e5f-3447-4d16-a648-4f8e309077cb:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Math Is...</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 6
+        },
+        {
+            "id": "1f220ed2-4f70-43cc-a284-947b924ef1ff",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Numbers to 5",
+            "labelId": "68e0aa7c-9c36-44d2-92e9-db075ee0ad0d",
+            "label": "Unit 2",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "a219b03e-1a17-44ca-b3cf-c93cc52c67af",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:1f220ed2-4f70-43cc-a284-947b924ef1ff:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "f8055265-820a-4c7e-9389-7cd8861c4cea",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "bf104af9-c75b-4d17-8461-e23bb4281d69",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "845ff502-e28f-405c-853e-84492675c0ce:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Numbers to 5</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 7
+        },
+        {
+            "id": "55ad793e-41e6-4dcf-a506-d848799c4911",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Numbers to 10",
+            "labelId": "d3d3bfd9-7dc8-4131-85d7-845fd0312a64",
+            "label": "Unit 3",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "220ebc9f-abd4-473c-9ca9-a4343ba68bdd",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:55ad793e-41e6-4dcf-a506-d848799c4911:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "a0f91632-91db-4a95-b13a-4d93526f7d30",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "be68402d-b08f-4e60-b4e1-bf713f9b020a",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "2573348a-f83d-432c-b3fa-fa464c43bc73:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Numbers to 10</strong></span></h2>\n",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 8
+        },
+        {
+            "id": "84f934d4-2f08-4c98-b7c5-fd8bfdb470d3",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Sort, Classify, and Count Objects",
+            "labelId": "8fcf5a62-d2c0-4b0a-a1dd-299cb4f428db",
+            "label": "Unit 4",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "b9920357-8dee-4161-a62d-4a4a1516015c",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:84f934d4-2f08-4c98-b7c5-fd8bfdb470d3:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "417d6594-1db2-486b-9e72-f689c8a2eaad",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "f6f86f65-7023-40d7-8989-3df826041081",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "e5473737-0a23-4997-baf1-fa993fa04bc6:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Sort, Classify, and Count Objects</strong></span></h2>\n",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 9
+        },
+        {
+            "id": "a612e00f-6fad-4fdb-8446-b0a2110203a6",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "2-Dimensional Shapes",
+            "labelId": "d80581c5-c352-4827-8e7f-89e7721e83b5",
+            "label": "Unit 5",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "a11de143-9b75-45b1-b8e5-38a2896a49c2",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:a612e00f-6fad-4fdb-8446-b0a2110203a6:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "eeb71867-9aa1-4ae2-a829-625d86496bcb",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "3aa7bdd4-c7d9-41b7-9d43-2b8fc38b900a",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "72ff70c5-e69e-4170-b924-05618f28062a:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>2-Dimensional Shapes</strong></span></h2>\n",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 10
+        },
+        {
+            "id": "6d38ea03-b370-44aa-b48f-b800c4bc5237",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Understand Addition",
+            "labelId": "19d16825-5ff8-434b-8935-df75f832dbd7",
+            "label": "Unit 6",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "4eb93706-7f73-497a-ac2e-8fa4bab6a97e",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:6d38ea03-b370-44aa-b48f-b800c4bc5237:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "8f3494e7-01d9-471b-885d-187c9d7944b9",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "6681fb49-e7ee-451a-b631-a47966f82492",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "0e912adb-3c6a-4622-a202-a7c381ccd535:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Understand Addition</strong></span></h2>\n",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 11
+        },
+        {
+            "id": "0d8430f4-0423-407c-b767-099feae1afa1",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Understand Subtraction",
+            "labelId": "5b6b93ac-400f-4740-8f6e-475bf2676525",
+            "label": "Unit 7",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "0ed8d93d-34f6-49f0-8143-5fc82969060b",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:0d8430f4-0423-407c-b767-099feae1afa1:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "48414e75-6f73-4c9a-a543-fb864cf3c2c0",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "ff53e4d8-bddd-492d-82b7-aac5bbf05f54",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "06b96d13-7287-4661-9fce-596690553359:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Understand Subtraction</strong></span></h2>\n",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 12
+        },
+        {
+            "id": "2911cece-cc85-4702-9bf9-ad889716f3c9",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Addition and Subtraction Strategies",
+            "labelId": "70aece7d-a8cd-4cdb-b78b-3a36b51f5a45",
+            "label": "Unit 8",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "89a0ebe5-9466-47c5-a86e-b906f8cb11b4",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:2911cece-cc85-4702-9bf9-ad889716f3c9:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "6239a86d-f9e5-4db6-9bf5-9ee24ff02ea7",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "22d3fa91-a8be-4a63-a5d2-93fc2f9014c4",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "73a3e403-f2ac-4d4b-9581-aaae5ebe9aad:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong> Addition and Subtraction Strategies </strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 13
+        },
+        {
+            "id": "f0daeff7-99fb-40be-8d0b-31312e0369f8",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Numbers 11 to 15",
+            "labelId": "e17f2260-6d05-49ae-a477-c679bc034ff3",
+            "label": "Unit 9",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "a40a503a-8b2a-43ff-a80a-b9e960243f2b",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:f0daeff7-99fb-40be-8d0b-31312e0369f8:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "c3fc73ac-fc71-4fcc-b881-150769902126",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "1986be15-b6be-443d-b68c-9fd251fc6d46",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "984122fe-ea80-4f76-b96c-52714d90442b:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Numbers 11 to 15</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 14
+        },
+        {
+            "id": "cc815e9e-9c6d-4855-a1bd-0168d6241cc6",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Numbers 16 to 19",
+            "labelId": "48b68f23-d231-4177-9df5-b98a19a41eb9",
+            "label": "Unit 10",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "b8af251a-014f-4cfa-a21c-42d75555427a",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:cc815e9e-9c6d-4855-a1bd-0168d6241cc6:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "a98fb69a-0d35-4d05-8c72-f08b8d9f5e5a",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "57598a5e-90bc-4022-8d72-399a8141dd6a",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "4651e5c2-7ded-44a5-8da1-091ec21c2b0a:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Numbers 16 to 19</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 15
+        },
+        {
+            "id": "325b4923-8843-4c35-bd83-d7def4a5bf59",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "3-Dimensional Shapes",
+            "labelId": "9c1d305b-3186-45d5-8568-5b766a7dc1a3",
+            "label": "Unit 11",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "6334108e-c08e-44a9-9a65-aa55f2eaf2f7",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:325b4923-8843-4c35-bd83-d7def4a5bf59:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "6e435903-6b33-47d6-b2d9-4ea5885c6d00",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "516d19d5-c3e3-4fa9-814d-0bfbe1fcbbf9",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "98e54c16-9afb-42c2-9a10-22c43b68bc29:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>3-Dimensional Shapes</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 16
+        },
+        {
+            "id": "da3a1d98-5d3b-4507-99bb-b902ea2bc0ce",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Count to 100",
+            "labelId": "02a84a87-64d8-4ef5-b54d-0a7b628eb4fa",
+            "label": "Unit 12",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "eb79ccc4-a4b7-41c5-b8de-002a1ab632d5",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:da3a1d98-5d3b-4507-99bb-b902ea2bc0ce:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "71158c98-2d70-4122-8760-5630d526faaf",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "39bcb705-fd8a-43b1-bc12-550888f10422",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "82c518f0-1e4b-474b-a55f-516a3da4456a:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Count to 100</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 17
+        },
+        {
+            "id": "fa662bfd-0698-44f8-8d48-fc768d55df46",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Analyze, Compare, and Compose Shapes",
+            "labelId": "d46bbe1b-65df-4cb5-9bec-a75c11c22a2f",
+            "label": "Unit 13",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "804e641e-aa3d-4a5c-ab94-6e438ad662f2",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:fa662bfd-0698-44f8-8d48-fc768d55df46:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "84dc6e31-d982-4f48-802c-e7f2b7382352",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "4a36b6e3-2329-4ef8-bad8-30750fa7e143",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "bb3fee46-2379-465f-92d4-f0ddb709828a:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Analyze, Compare, and Compose Shapes</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 18
+        },
+        {
+            "id": "ce4844a0-91e9-4457-abe3-b6f843a11f2d",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Compare Measurable Attributes",
+            "labelId": "9512b091-4c11-4949-bc0c-a7c274e48b20",
+            "label": "Unit 14",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "70fda586-ee40-436a-92ce-3ec47dff3e91",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:ce4844a0-91e9-4457-abe3-b6f843a11f2d:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "2aad1b6ae84b4c078ce708625c5926aa",
+                    "clonedFrom": "58dd6599-94f2-447e-b80d-9d26348941e2",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "3097638b-ff43-4148-9a25-89a5338ac93f",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/2aad1b6ae84b4c078ce708625c5926aa/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "78036a2e-4b70-42a0-9cde-9c23285f45bd:1731518635.698090",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Compare Measurable Attributes</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 19
+        },
+        {
+            "id": "631acb83-c096-4664-9f19-133773e8b186",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:05:56.723232+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:23:55.69809+00:00",
+            "title": "Add-On Container",
+            "labelId": null,
+            "label": null,
+            "nodeType": "addOn",
+            "instructorMaterials": null,
+            "displayOptions": null,
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "c0798dc4-4d45-4138-99dd-245091225040",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:631acb83-c096-4664-9f19-133773e8b186:1",
+            "overview": [],
+            "nodeImage": [],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "f6009f4d-c81e-44e0-b928-201fe76a6e6f:1731518635.698090",
+            "titleHtml": "Add-On Container",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 20
+        },
+        {
+            "id": "7a40bf35-331a-4ce5-a1bd-ecb08eacf929",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:24:16.128+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T17:24:16.128+00:00",
+            "title": "Grade 1",
+            "labelId": "cff389f5-2987-4a39-8757-a2ec972ed940",
+            "label": "Reveal Math",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:7a40bf35-331a-4ce5-a1bd-ecb08eacf929:1",
+            "overview": [],
+            "nodeImage": [],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": false,
+            "ETag": "b99660aa-dde0-4d35-b236-1ce62a75d995:1731518656.128000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Grade 1</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 21
+        },
+        {
+            "id": "3c3c258a-7249-448e-b4b5-0edd8c6d1541",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T17:59:35.279836+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-13T17:59:35.77035+00:00",
+            "title": "Math Is",
+            "labelId": "94a5f2da-5f2a-4935-853d-392381b57a9e",
+            "label": "Unit 1",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "52b00730-888e-498d-9ebb-7dc95459fffb",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:3c3c258a-7249-448e-b4b5-0edd8c6d1541:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "f7e8a53005d24b8f93d4a7f59c51079e",
+                    "clonedFrom": "12c80704-4d57-4b63-b75f-221caa198d70",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "cee9e82d-e9e0-454b-8c68-59ed01dc59d4",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/f7e8a53005d24b8f93d4a7f59c51079e/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "41131d87-78a7-44e5-82cd-7831dc6905c2:1731520775.770350",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Math Is</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 22
+        },
+        {
+            "id": "21a634d0-be02-4674-8f1a-ae31ff386f48",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T18:01:34.52+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T18:01:34.52+00:00",
+            "title": "Number Patterns",
+            "labelId": "68e0aa7c-9c36-44d2-92e9-db075ee0ad0d",
+            "label": "Unit 2",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:21a634d0-be02-4674-8f1a-ae31ff386f48:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "13d63894825d48cfb1cc3ba3bfcddf25",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "5d9e4b7f-ae07-40a5-a502-ade1365fcdd6",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/13d63894825d48cfb1cc3ba3bfcddf25/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "79e1f47a-304f-420c-a7b9-322c55db1030:1731520894.520000",
+            "titleHtml": "<h1><strong>Number Patterns</strong></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 23
+        },
+        {
+            "id": "1756d2b5-93fc-47b4-9bbf-4c7c596656b6",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:08:34.783+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:08:34.783+00:00",
+            "title": "Place Value",
+            "labelId": "d3d3bfd9-7dc8-4131-85d7-845fd0312a64",
+            "label": "Unit 3",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:1756d2b5-93fc-47b4-9bbf-4c7c596656b6:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "6b5087de047c4cd5bd4cf22eae0afadc",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "4f9cbb85-fcb1-4816-88cd-fc31dae978b3",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/6b5087de047c4cd5bd4cf22eae0afadc/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "2d76cd7c-10b3-4fa1-98f0-04f3fbff1211:1731524914.783000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Place Value</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 24
+        },
+        {
+            "id": "01fa264c-8b76-4154-accc-1a7f644d8732",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:26:13.305+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:26:13.305+00:00",
+            "title": "Addition within 20: Facts and Strategies",
+            "labelId": "8fcf5a62-d2c0-4b0a-a1dd-299cb4f428db",
+            "label": "Unit 4",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:01fa264c-8b76-4154-accc-1a7f644d8732:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "8e39018a284e4760af32e449fb46f5e5",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "c2687fb2-deee-40b0-9748-9b15fca5ad37",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/8e39018a284e4760af32e449fb46f5e5/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "15f1dc99-af91-4c57-b2eb-6688fd3316ef:1731525973.305000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Addition within 20: Facts and Strategies</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 25
+        },
+        {
+            "id": "cd999f97-d2ff-49ae-90ff-25e000fcca8d",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:35:37.148+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:35:37.148+00:00",
+            "title": "Subtraction within 20: Facts and Strategies",
+            "labelId": "d80581c5-c352-4827-8e7f-89e7721e83b5",
+            "label": "Unit 5",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:cd999f97-d2ff-49ae-90ff-25e000fcca8d:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "cd51ed2b566f4095af2273a8d40de393",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "d94fcd86-8810-4a74-b299-46ea3dcb6d0b",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/cd51ed2b566f4095af2273a8d40de393/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "52f35969-fa1e-4336-a426-b091c481dbfd:1731526537.148000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Subtraction within 20: Facts and Strategies</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 26
+        },
+        {
+            "id": "a99b3eea-77e1-434e-aee6-d9b6c532c4b6",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:36:07.103+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:36:07.103+00:00",
+            "title": "Shapes and Solids",
+            "labelId": "19d16825-5ff8-434b-8935-df75f832dbd7",
+            "label": "Unit 6",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:a99b3eea-77e1-434e-aee6-d9b6c532c4b6:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "9c5efcf3594945418b233d7fadc9cac7",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "61d04b5d-6dee-4da8-9dcd-f1c41fe277c3",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/9c5efcf3594945418b233d7fadc9cac7/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "5d3d5151-4054-452f-a987-22274fd284db:1731526567.103000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Shapes and Solids</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 27
+        },
+        {
+            "id": "856c702e-b8b7-40db-8082-1ddce3956dd9",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:44:19.307+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:44:19.307+00:00",
+            "title": "Meanings of Addition",
+            "labelId": "5b6b93ac-400f-4740-8f6e-475bf2676525",
+            "label": "Unit 7",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:856c702e-b8b7-40db-8082-1ddce3956dd9:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "3bfbb2f84ae94905971384d8a8a8dc23",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "c8a64235-b6a1-4f48-9149-dc08c5c4f49f",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/3bfbb2f84ae94905971384d8a8a8dc23/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "8b115b2e-33ed-4ee1-8057-51a663251db9:1731527059.307000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Meanings of Addition</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 28
+        },
+        {
+            "id": "2e5f701d-6ca8-4670-8b99-58d2e1afe946",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:53:08.2+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:53:08.2+00:00",
+            "title": "Meanings of Subtraction",
+            "labelId": "70aece7d-a8cd-4cdb-b78b-3a36b51f5a45",
+            "label": "Unit 8",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:2e5f701d-6ca8-4670-8b99-58d2e1afe946:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "78268faf865f4952b1745839150ad5dd",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "6b0fdf6d-abb6-4308-9b76-bc6d58be5b1e",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/78268faf865f4952b1745839150ad5dd/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "bae4fc02-985b-4c51-bbdf-f2fe03618ef3:1731527588.200000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Meanings of Subtraction</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 29
+        },
+        {
+            "id": "eded0d3f-3bf0-49e9-9155-1b8398d695ef",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:53:39.121+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:53:39.121+00:00",
+            "title": "Addition within 100",
+            "labelId": "e17f2260-6d05-49ae-a477-c679bc034ff3",
+            "label": "Unit 9",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:eded0d3f-3bf0-49e9-9155-1b8398d695ef:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "1d6a61a372654914a34e97cf98dfb76b",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "fa74b50c-987e-4bd2-9a39-6849da810c8c",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/1d6a61a372654914a34e97cf98dfb76b/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "abc7b5da-dd92-4a94-9e99-f4c2c36b65d9:1731527619.121000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Addition within 100</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 30
+        },
+        {
+            "id": "e627e2a1-5b20-42ce-8027-603e1e0615e2",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:56:38.069+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:56:38.069+00:00",
+            "title": "Compare Using Addition and Subtraction",
+            "labelId": "48b68f23-d231-4177-9df5-b98a19a41eb9",
+            "label": "Unit 10",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:e627e2a1-5b20-42ce-8027-603e1e0615e2:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "264ef9d56e1c4451bbb34aabdc9ce4ba",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "432f0f54-4692-4e16-9f57-6fe996c2a906",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/264ef9d56e1c4451bbb34aabdc9ce4ba/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "42e144e2-3810-4711-aba9-67d618e13deb:1731527798.069000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Compare Using Addition and Subtraction</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 31
+        },
+        {
+            "id": "1d954265-3046-4b6d-9a22-7dbc61ff49d8",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:57:32.726+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:57:32.726+00:00",
+            "title": "Subtraction within 100",
+            "labelId": "9c1d305b-3186-45d5-8568-5b766a7dc1a3",
+            "label": "Unit 11",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:1d954265-3046-4b6d-9a22-7dbc61ff49d8:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "b68ba93eacc64335a34da25c5a668edf",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "dcf5d199-9a07-467f-a5b3-b22113f1815f",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/b68ba93eacc64335a34da25c5a668edf/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "b57ae2e4-c236-401c-8c50-29a1c4d9f5b9:1731527852.726000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Subtraction within 100</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 32
+        },
+        {
+            "id": "bfa3dfb5-c2c5-4905-ae73-0107ad65d5d0",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T19:58:18.257+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T19:58:18.257+00:00",
+            "title": "Measurement and Data",
+            "labelId": "02a84a87-64d8-4ef5-b54d-0a7b628eb4fa",
+            "label": "Unit 12",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:bfa3dfb5-c2c5-4905-ae73-0107ad65d5d0:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "a12137229b5844f18fe34856c7dd5ede",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "cbd8b19d-f9bd-4d80-a4ba-37ff58726bd7",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/a12137229b5844f18fe34856c7dd5ede/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "065c7628-40cd-4e57-beee-595d6cb18116:1731527898.257000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Measurement and Data</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 33
+        },
+        {
+            "id": "58ee615f-19ec-48e5-ae9d-b1fe0d0a0432",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T20:17:05.613+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T20:17:05.613+00:00",
+            "title": "Equal Shares",
+            "labelId": "d46bbe1b-65df-4cb5-9bec-a75c11c22a2f",
+            "label": "Unit 13",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:58ee615f-19ec-48e5-ae9d-b1fe0d0a0432:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "817fd241cb9f4032bcdd83aa629a231a",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "ea6c1631-8ca5-4702-b1a4-031a82bdefea",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/817fd241cb9f4032bcdd83aa629a231a/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "f092f83c-7f7e-4bfc-b7f3-240d69d921cc:1731529025.613000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Equal Shares</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 34
+        },
+        {
+            "id": "3a04f612-0460-4180-af99-16d04ccdc785",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:21:35.903+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:21:35.903+00:00",
+            "title": "Grade 2",
+            "labelId": "cff389f5-2987-4a39-8757-a2ec972ed940",
+            "label": "Reveal Math",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:3a04f612-0460-4180-af99-16d04ccdc785:1",
+            "overview": [],
+            "nodeImage": [],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": false,
+            "ETag": "dec75af2-8731-4b54-af28-f00902c50a2c:1731532895.903000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Grade 2</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 35
+        },
+        {
+            "id": "79697f93-4b12-454f-b2bd-284923b4dc27",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:22:44.348+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:22:44.348+00:00",
+            "title": "Math Is...",
+            "labelId": "94a5f2da-5f2a-4935-853d-392381b57a9e",
+            "label": "Unit 1",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:79697f93-4b12-454f-b2bd-284923b4dc27:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "b2c6e822df8745bf9f85ed10dd02f3f8",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "87990cd6-8b48-42dc-b66b-1fe6c6064875",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/b2c6e822df8745bf9f85ed10dd02f3f8/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "974eb159-81ca-4e60-b835-3c84bc33e9bc:1731532964.348000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Math Is...</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 36
+        },
+        {
+            "id": "52d68d6f-926e-4a90-b29d-8a1ea184b907",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:23:33.275+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:23:33.275+00:00",
+            "title": "Place Value to 1,000",
+            "labelId": "68e0aa7c-9c36-44d2-92e9-db075ee0ad0d",
+            "label": "Unit 2",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:52d68d6f-926e-4a90-b29d-8a1ea184b907:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "d386646ba7a54bfda600705a38d12a65",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "c13dd1c5-4d8b-45ed-b085-e370e4d01ac5",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/d386646ba7a54bfda600705a38d12a65/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "5ebd3259-d944-458d-8010-6d55277a4661:1731533013.275000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Place Value to 1,000</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 37
+        },
+        {
+            "id": "e12ed352-fd83-4679-926a-c13e8400595f",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:24:07.688+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:24:07.688+00:00",
+            "title": "Patterns within Numbers",
+            "labelId": "d3d3bfd9-7dc8-4131-85d7-845fd0312a64",
+            "label": "Unit 3",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:e12ed352-fd83-4679-926a-c13e8400595f:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "c8abdd6b6e6d426b9b907f27b5ea9dff",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "a5718c86-92d3-455b-be0c-682979aecac0",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/c8abdd6b6e6d426b9b907f27b5ea9dff/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "bcc5492e-ca48-4bb8-b3fd-e948459ee660:1731533047.688000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Patterns within Numbers</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 38
+        },
+        {
+            "id": "2f59ed13-5e91-4caa-b1be-8a60cf38a8f4",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:24:51.357+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:24:51.357+00:00",
+            "title": "Meanings of Addition and Subtraction",
+            "labelId": "8fcf5a62-d2c0-4b0a-a1dd-299cb4f428db",
+            "label": "Unit 4",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:2f59ed13-5e91-4caa-b1be-8a60cf38a8f4:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "09c8ff1051a549f0993fe23bb57c19f3",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "fb8fb994-8936-40f8-ab8f-a9683ef3b1a7",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/09c8ff1051a549f0993fe23bb57c19f3/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "1eb8f65f-c7b9-43ba-a258-83f7f8967645:1731533091.357000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Meanings of Addition and Subtraction</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 39
+        },
+        {
+            "id": "65e2d95b-98e6-40d6-849e-a3078e1c62ce",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:25:22.73+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:25:22.73+00:00",
+            "title": "Strategies to Fluently Add within 100",
+            "labelId": "d80581c5-c352-4827-8e7f-89e7721e83b5",
+            "label": "Unit 5",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:65e2d95b-98e6-40d6-849e-a3078e1c62ce:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "418a0232fa8c469789bca23f8ceb0751",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "e748c6f2-2e8d-4361-84f4-41f501a5cc61",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/418a0232fa8c469789bca23f8ceb0751/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "5f3fca2a-9682-4f00-8049-fee8cf6f6b11:1731533122.730000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Strategies to Fluently Add within 100</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 40
+        },
+        {
+            "id": "4a16820a-1a44-42da-a288-79ce7fa1a9be",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:26:04.178+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:26:04.178+00:00",
+            "title": "Strategies to Fluently Subtract within 100",
+            "labelId": "19d16825-5ff8-434b-8935-df75f832dbd7",
+            "label": "Unit 6",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:4a16820a-1a44-42da-a288-79ce7fa1a9be:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "0ec6acf51b6e48aba97db6e194708497",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "1008c3b4-7bf8-4dbe-90f1-92cb15f7b497",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/0ec6acf51b6e48aba97db6e194708497/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "aea8c463-31de-4ba4-9048-b9dc3efc47dc:1731533164.178000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Strategies to Fluently Subtract within 100</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 41
+        },
+        {
+            "id": "baa607a6-4deb-425d-935d-e265a7fb2189",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:26:53.302+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:26:53.302+00:00",
+            "title": "Measure and Compare Lengths",
+            "labelId": "5b6b93ac-400f-4740-8f6e-475bf2676525",
+            "label": "Unit 7",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:baa607a6-4deb-425d-935d-e265a7fb2189:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "182070f8ef19469c981ec013188e8c07",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "3e5a6737-e9ba-4760-85fc-755e2127c31d",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/182070f8ef19469c981ec013188e8c07/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "86d396d7-f799-44a8-b6f5-5b5c80bc4338:1731533213.302000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Measure and Compare Lengths</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 42
+        },
+        {
+            "id": "e3283f5d-70da-484e-8fb7-c5298e1405f9",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:27:23.45+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:27:23.45+00:00",
+            "title": "Measurement: Money and Time",
+            "labelId": "70aece7d-a8cd-4cdb-b78b-3a36b51f5a45",
+            "label": "Unit 8",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:e3283f5d-70da-484e-8fb7-c5298e1405f9:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "8726af305c5a447196a4f0c28a00e499",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "6af86d51-f96f-4ad0-95d4-87d7c93bdbca",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/8726af305c5a447196a4f0c28a00e499/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "4cd6beea-84cf-4ecc-b9f5-24851e815940:1731533243.450000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Measurement: Money and Time</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 43
+        },
+        {
+            "id": "20361b35-6291-47cf-a506-5e44ab972f66",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:28:01.164+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:28:01.164+00:00",
+            "title": "Strategies to Add 3-Digit Numbers",
+            "labelId": "e17f2260-6d05-49ae-a477-c679bc034ff3",
+            "label": "Unit 9",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:20361b35-6291-47cf-a506-5e44ab972f66:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "88d1157b5f234679b9d84eab68601106",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "508dc742-4d06-4ec4-b769-41b77767e30e",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/88d1157b5f234679b9d84eab68601106/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "26c5bc4b-5078-4eb8-ad30-dd029ed613e8:1731533281.164000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Strategies to Add 3-Digit Numbers</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 44
+        },
+        {
+            "id": "ae7db61f-1420-44ad-937a-a5d2c2c793fc",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:28:36.683+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:28:36.683+00:00",
+            "title": "Strategies to Subtract 3-Digit Numbers",
+            "labelId": "48b68f23-d231-4177-9df5-b98a19a41eb9",
+            "label": "Unit 10",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:ae7db61f-1420-44ad-937a-a5d2c2c793fc:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "dece192f7450453fb7d12bb4e69c83d7",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "09b11782-1ab4-4750-af5b-7ad5e4457b82",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/dece192f7450453fb7d12bb4e69c83d7/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "e826e6b4-cf95-41c7-a1ce-fcc73c4b95a1:1731533316.683000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Strategies to Subtract 3-Digit Numbers</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 45
+        },
+        {
+            "id": "1099134a-6cfb-4be8-af96-f99c7ef5df69",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:29:20.203+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:29:20.203+00:00",
+            "title": "Data Analysis",
+            "labelId": "9c1d305b-3186-45d5-8568-5b766a7dc1a3",
+            "label": "Unit 11",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:1099134a-6cfb-4be8-af96-f99c7ef5df69:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "5e66b174a9994f1a8181b597bd1de58e",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "b634c8ca-993e-4e44-a210-d5afaa9dc3e5",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/5e66b174a9994f1a8181b597bd1de58e/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "50a37f2a-19ee-4102-b969-94c3f19c0c06:1731533360.203000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Data Analysis</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 46
+        },
+        {
+            "id": "2758b05f-8a44-49ef-8db5-5023b7e2de4c",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T21:29:49.196+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T21:29:49.196+00:00",
+            "title": "Geometric Shapes and Equal Shares",
+            "labelId": "02a84a87-64d8-4ef5-b54d-0a7b628eb4fa",
+            "label": "Unit 12",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:2758b05f-8a44-49ef-8db5-5023b7e2de4c:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "5eb0603b737840c58aa2bd6f49a784a9",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "b6837444-6a3f-4fd0-b1c1-c5625e218676",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/5eb0603b737840c58aa2bd6f49a784a9/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "b20a91ec-98d2-464c-89c9-debecb18dd97:1731533389.196000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Geometric Shapes and Equal Shares</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 47
+        },
+        {
+            "id": "ca8bff03-308a-4845-bcb7-22634e60e254",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-13T22:28:06.224+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-13T22:28:06.224+00:00",
+            "title": "Grade 3",
+            "labelId": "cff389f5-2987-4a39-8757-a2ec972ed940",
+            "label": "Reveal Math",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:ca8bff03-308a-4845-bcb7-22634e60e254:1",
+            "overview": [],
+            "nodeImage": [],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": false,
+            "ETag": "cc78219b-7124-414b-9370-d30d3358b4cf:1731536886.224000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Grade 3</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 48
+        },
+        {
+            "id": "1058d2c8-79bb-45cb-a58a-694ff13cc0b2",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T15:46:14.378615+00:00",
+            "updatedBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "updatedTime": "2024-11-15T15:46:14.874397+00:00",
+            "title": "Math Is...",
+            "labelId": "94a5f2da-5f2a-4935-853d-392381b57a9e",
+            "label": "Unit 1",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": "76c1dc79-55f7-4cbb-9c3a-4cc260df56ca",
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:1058d2c8-79bb-45cb-a58a-694ff13cc0b2:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "f7e8a53005d24b8f93d4a7f59c51079e",
+                    "clonedFrom": "fd10cc39-0ffc-4cb7-9b64-def879f580a6",
+                    "cropArea": {
+                        "top": 320,
+                        "left": 0,
+                        "right": 1600,
+                        "bottom": 30
+                    },
+                    "id": "a3115acd-d301-4814-95ed-880073ccd496",
+                    "imageHeight": "350",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/f7e8a53005d24b8f93d4a7f59c51079e/content/exact",
+                    "imageWidth": "1600",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "5572c5c7-b314-4b40-a090-8bf3a810b647:1731685574.874397",
+            "titleHtml": "<h2><span style=\"color:#ffffff\"><strong>Math Is...</strong></span></h2>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 49
+        },
+        {
+            "id": "902358a9-24d8-4ad5-bac0-573bf9a87053",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T15:51:20.407+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T15:51:20.407+00:00",
+            "title": "Use Place Value to Fluently Add and Subtract within 1,000",
+            "labelId": "68e0aa7c-9c36-44d2-92e9-db075ee0ad0d",
+            "label": "Unit 2",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:902358a9-24d8-4ad5-bac0-573bf9a87053:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "1a1db97348e9409db1835aef90a2f3f5",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "534da7b3-3c48-49f7-b099-cac6076e116a",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/1a1db97348e9409db1835aef90a2f3f5/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "e6c9a56a-9192-41c8-b6ec-fc94b1637ee3:1731685880.407000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Use Place Value to Fluently Add and Subtract within 1,000</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 50
+        },
+        {
+            "id": "12af3345-e88c-4a48-9ff7-91a4b32f4553",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T15:57:49.52+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T15:57:49.52+00:00",
+            "title": "Multiplication and Division",
+            "labelId": "d3d3bfd9-7dc8-4131-85d7-845fd0312a64",
+            "label": "Unit 3",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:12af3345-e88c-4a48-9ff7-91a4b32f4553:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "03307a5a1dc6409893a56ec368f48aed",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "0744db9b-7374-4228-b10a-3d498a5a40fd",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/03307a5a1dc6409893a56ec368f48aed/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "975aa85a-34a2-4ca6-b76f-f1ba8e00124b:1731686269.520000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Multiplication and Division</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 51
+        },
+        {
+            "id": "0ad0caf0-bdc1-46d1-9965-7bc80b474752",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:39:57.925+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:39:57.925+00:00",
+            "title": "Use Patterns to Multiply by 0, 1, 2, 5, and 10",
+            "labelId": "8fcf5a62-d2c0-4b0a-a1dd-299cb4f428db",
+            "label": "Unit 4",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:0ad0caf0-bdc1-46d1-9965-7bc80b474752:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "87479554e33249a0a17e46566d1612f1",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "bbfdcfda-cc48-446a-a2dc-188ce729c752",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/87479554e33249a0a17e46566d1612f1/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "4bbfa92e-4644-44f4-b0f5-8533f3118b41:1731688797.925000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Use Patterns to Multiply by 0, 1, 2, 5, and 10</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 52
+        },
+        {
+            "id": "e650038a-16cb-4acd-9fdd-ddb0860a11a7",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:43:30.121+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:43:30.121+00:00",
+            "title": "Use Properties to Multiply by 3, 4, 6, 7, 8, and 9",
+            "labelId": "d80581c5-c352-4827-8e7f-89e7721e83b5",
+            "label": "Unit 5",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:e650038a-16cb-4acd-9fdd-ddb0860a11a7:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "dc0ad05f0d134c1ba5066c37427f870a",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "0f8ac549-cf28-4c5f-a115-18e3dfe72c3f",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/dc0ad05f0d134c1ba5066c37427f870a/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "6eb15da3-c379-4639-976b-ea602924ca48:1731689010.121000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Use Properties to Multiply by 3, 4, 6, 7, 8, and 9</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 53
+        },
+        {
+            "id": "cd1310f5-3353-4c9c-ab27-7c098552a3b1",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:47:17.542+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:47:17.542+00:00",
+            "title": "Connect Area and Multiplication",
+            "labelId": "19d16825-5ff8-434b-8935-df75f832dbd7",
+            "label": "Unit 6",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:cd1310f5-3353-4c9c-ab27-7c098552a3b1:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "f3e9cf72dde64d899b0187656c49ac25",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "522e92bb-379b-415e-9d84-674bd5f24bfc",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/f3e9cf72dde64d899b0187656c49ac25/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "4b41cffe-5a5d-4c3b-8d07-4287d0a6b3e7:1731689237.542000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Connect Area and Multiplication</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 54
+        },
+        {
+            "id": "79a7ab5f-5ed5-437d-8f8d-2051dc628473",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:49:40.304+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:49:40.304+00:00",
+            "title": "Fractions",
+            "labelId": "5b6b93ac-400f-4740-8f6e-475bf2676525",
+            "label": "Unit 7",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:79a7ab5f-5ed5-437d-8f8d-2051dc628473:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "765146839de64af7b50dcf64ea785124",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "da018607-02a2-4b61-bcc1-cd112e64e95f",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/765146839de64af7b50dcf64ea785124/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "cd737c89-699f-4455-b61b-ffdc45a4eda2:1731689380.304000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Fractions</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 55
+        },
+        {
+            "id": "cdec97db-7554-4a73-bd14-6a24e402dc6f",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:52:46.47+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:52:46.47+00:00",
+            "title": "Fraction Equivalence and Comparison",
+            "labelId": "70aece7d-a8cd-4cdb-b78b-3a36b51f5a45",
+            "label": "Unit 8",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:cdec97db-7554-4a73-bd14-6a24e402dc6f:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "3bad56114d9044be8c8e0a566aa28cf8",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "83399cf0-6412-438c-8010-209f4d8c452e",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/3bad56114d9044be8c8e0a566aa28cf8/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "0e714bbe-95ce-47fd-b6ac-d8ef02b980f7:1731689566.470000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Fraction Equivalence and Comparison</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 56
+        },
+        {
+            "id": "8266ccf3-70f6-43bd-9c63-11a50851adf5",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:55:23.542+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:55:23.542+00:00",
+            "title": "Use Multiplication to Divide",
+            "labelId": "e17f2260-6d05-49ae-a477-c679bc034ff3",
+            "label": "Unit 9",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:8266ccf3-70f6-43bd-9c63-11a50851adf5:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "80bc2e6754d948fd96699a6b494e85ad",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "1c345579-20d5-4326-97d9-62d0246465f5",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/80bc2e6754d948fd96699a6b494e85ad/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "e2e30e73-193c-4f83-9699-09c61df8db03:1731689723.542000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Use Multiplication to Divide</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 57
+        },
+        {
+            "id": "1019be3d-19c1-4ee3-9309-353f28c1dc4c",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:57:11.741+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:57:11.741+00:00",
+            "title": "Use Properties and Strategies to Multiply and Divide",
+            "labelId": "48b68f23-d231-4177-9df5-b98a19a41eb9",
+            "label": "Unit 10",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:1019be3d-19c1-4ee3-9309-353f28c1dc4c:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "c801ea7d231245c3affd9d7a40b7e89c",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "7d99e933-7829-4229-bfc2-67a377192559",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/c801ea7d231245c3affd9d7a40b7e89c/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "487b815d-9ad1-468d-9e23-7740c05b8e54:1731689831.741000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Use Properties and Strategies to Multiply and Divide</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 58
+        },
+        {
+            "id": "0812ac1b-e24f-49c8-a7b7-28fdec4e2399",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T16:59:54.913+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T16:59:54.913+00:00",
+            "title": "Perimeter",
+            "labelId": "9c1d305b-3186-45d5-8568-5b766a7dc1a3",
+            "label": "Unit 11",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:0812ac1b-e24f-49c8-a7b7-28fdec4e2399:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "e189a335869640b78b444a267b8a7611",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "532e5f15-8869-465f-aa2d-b5327f62666a",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/e189a335869640b78b444a267b8a7611/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "eacdd39f-0982-45ef-b5af-9f98e00d4885:1731689994.913000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Perimeter</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 59
+        },
+        {
+            "id": "69d52d75-3284-4e0b-afab-c75283ce40f6",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T17:00:30.408+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T17:00:30.408+00:00",
+            "title": "Measurement and Data",
+            "labelId": "02a84a87-64d8-4ef5-b54d-0a7b628eb4fa",
+            "label": "Unit 12",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:69d52d75-3284-4e0b-afab-c75283ce40f6:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "217299aeb41f496d9a8ea2b5dda7832f",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "353709cf-6892-4f22-809c-ba027a09625d",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/217299aeb41f496d9a8ea2b5dda7832f/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "40063d54-1c93-4103-9394-8f328125fe1b:1731690030.408000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Measurement and Data</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 60
+        },
+        {
+            "id": "5b5957d3-2896-4138-9556-88e1a1c83261",
+            "parentNodeId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "createdBy": "50a6e21b-712e-11e6-b5f1-0af6ad31f00f",
+            "createdTime": "2024-11-15T17:01:50.078+00:00",
+            "updatedBy": null,
+            "updatedTime": "2024-11-15T17:01:50.078+00:00",
+            "title": "Describe and Analyze 2-Dimensional Shapes",
+            "labelId": "d46bbe1b-65df-4cb5-9bec-a75c11c22a2f",
+            "label": "Unit 13",
+            "nodeType": "node",
+            "instructorMaterials": null,
+            "displayOptions": {
+                "ngc": {
+                    "isStyled": true
+                }
+            },
+            "displayStandards": true,
+            "isInstructorOnly": false,
+            "isLearnerHidden": false,
+            "themeUuid": null,
+            "audience": null,
+            "locked": false,
+            "clonedFrom": null,
+            "xid": "urn:com.mheducation.openlearning:cms.authoring:production.cms:nodes:5b5957d3-2896-4138-9556-88e1a1c83261:1",
+            "overview": [],
+            "nodeImage": [
+                {
+                    "anchorPosition": {
+                        "vertical": "center",
+                        "horizontal": "center"
+                    },
+                    "assetId": "a85d4b1fac5e49628cf61c0d170c2480",
+                    "clonedFrom": null,
+                    "cropArea": {
+                        "top": 290,
+                        "left": 0,
+                        "right": 1318,
+                        "bottom": 0
+                    },
+                    "id": "adf3ef8c-716c-48c0-a176-6a2569aa2cd9",
+                    "imageHeight": "290",
+                    "imageType": "container",
+                    "imageUrl": "https://abs.mheducation.com/api/v1/asset/a85d4b1fac5e49628cf61c0d170c2480/content/exact",
+                    "imageWidth": "1318",
+                    "cdnImageUrl": "No bank ID found."
+                }
+            ],
+            "benchmark": [],
+            "layout": null,
+            "recommendations": [],
+            "hasChildren": true,
+            "ETag": "62f47977-b375-451e-8544-3aa1d2b1333f:1731690110.078000",
+            "titleHtml": "<h1><span style=\"color:#ffffff\"><strong>Describe and Analyze 2-Dimensional Shapes</strong></span></h1>",
+            "publishedTime": null,
+            "courseId": "3e3499ee-f547-4abf-aaa0-6702ecbcb396",
+            "children": [],
+            "sequence": 61
+        }
+    ],
+    "publishedTime": null,
+    "internalDistributionBankId": null,
+    "publishId": "0d4fea12-ca43-41d5-91de-34066d9d2e28"
+}
