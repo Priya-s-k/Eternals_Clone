@@ -31,7 +31,7 @@ private static final String API_URL = "https://dle-cms-assemblyapi.mheducation.c
  
         try {
             fetchAndProcessCourseware(containerId, publishId, jwtToken, new ArrayList<>());
-            return "Recursive fetch completed and saved responses successfully.";
+            return "Recursive fetch completed successfully.";
         } catch (IOException e) {
             e.printStackTrace();
             return "Error during recursive fetch.";
@@ -50,7 +50,7 @@ private static final String API_URL = "https://dle-cms-assemblyapi.mheducation.c
         HttpEntity<String> entity = new HttpEntity<>(headers);
  
         String url = API_URL;
-ResponseEntity<String> response = restTemplate.exchange(
+ResponseEntity <String>response = restTemplate.exchange(
             url,
             HttpMethod.GET,
             entity,
@@ -58,17 +58,19 @@ ResponseEntity<String> response = restTemplate.exchange(
             containerId, publishId
         );
  
-        String jsonResponse =  response.getBody();
+        String jsonResponse = response.getBody();
  
+        // Save the response to a file
         File file = new File("response_" + containerId + ".json");
         ObjectMapper objectMapper = new ObjectMapper();
         JsonNode jsonNode = objectMapper.readTree(jsonResponse);
         objectMapper.writeValue(file, jsonNode);
  
-        JsonNode childContainers = jsonNode.get("childContainers");
-        if (childContainers != null && childContainers.isArray()) {
-            for (JsonNode child : childContainers) {
-                String childContainerId = child.get("containerId").asText();
+        // Extract and process child containers
+        JsonNode children = jsonNode.get("children");
+        if (children != null && children.isArray()) {
+            for (JsonNode child : children) {
+                String childContainerId = child.get("id").asText();
                 fetchAndProcessCourseware(childContainerId, publishId, jwtToken, visitedContainers);
             }
         }
